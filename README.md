@@ -32,8 +32,9 @@
 ---
 
 ## 📊 إحصائيات GitHub
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=vue&hide_border=true" alt="إحصائياتي على GitHub" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=vue&hide_border=true" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=aboyasser123&show_icons=true&theme=vue&hide_border=true" alt="إحصائياتي على GitHub" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aboyasser123&layout=compact&theme=vue&hide_border=true" /> |
 | ------------- | ------------- |
+
 
 ---
 
